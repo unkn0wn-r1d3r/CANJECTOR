@@ -45,7 +45,7 @@ class PacketDetailDialog(QDialog):
 class CANMonitor(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("CAN Bus Security Research Tool")
+        self.setWindowTitle("CANBJECTOR")
         self.setGeometry(100, 100, 1000, 800)
 
         main_layout = QVBoxLayout()

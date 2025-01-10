@@ -1,4 +1,4 @@
-<h1 align="center">CANBJECTOR</h1>
+<h1 align="center">CANJECTOR</h1>
 
 
 ```diff
@@ -10,11 +10,11 @@
 ![downloadfile-8](https://github.com/user-attachments/assets/4607b442-c341-4673-a63a-7885bc883d4e)
 
 
-<p>CANBJECTOR is a Can Bus Pentesting tool which can be used to monitor and inject the CAN BUS packet of vechicle.</p>
+<p>CANJECTOR is a Can Bus Pentesting tool which can be used to monitor and inject the CAN BUS packet of vechicle.</p>
 
-<h2>CANBJECTOR have two part</h2>
+<h2>CANJECTOR have two part</h2>
 <ol>
-  <li>CANBJECTOR Application : Developed using python and pyside6.This Application is processing the data and analyze it and inject the payloads.</li>
+  <li>CANJECTOR Application : Developed using python and pyside6.This Application is processing the data and analyze it and inject the payloads.</li>
   <li>Arduino Nano + MCP2515 Module + OBD2 Connector : This hardware will connect to OBD2 Port on the vechicle and read CAN BUS packet. </li>
   
 </ol>  
@@ -93,7 +93,7 @@
     
   </tr>
   </table>
-  <h2>CANBJECTOR Application</h2>
+  <h2>CANJECTOR Application</h2>
   
 ![image](https://github.com/user-attachments/assets/76b95084-7371-4387-8270-ebe495762f5e)
 
